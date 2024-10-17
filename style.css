@@ -1,0 +1,33 @@
+#cuerpo{
+    background-image: url('2.jpeg');
+    background-repetition: no-repetition;
+    background-position: center center;
+    background-size: cover;
+}
+.textoI{
+    font-family: cursive;
+    color: rgb(0,20,100);
+}
+.pr{
+    font-size: 30;
+    -webkit-text-stroke: 2px rgb(50,15,180);
+    color: transparent;
+    color: black;
+}
+.pp{
+    font-size: 90%;
+    -webkit-text-stroke: 2px black;
+    color: transparent;
+    color: black;
+}
+.botones{
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(100,100,200);
+}
+.imgl{
+    width: 30%;
+    height: 15%;
+    float: left;
+}
