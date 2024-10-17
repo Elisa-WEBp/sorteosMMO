@@ -1,6 +1,6 @@
 #cuerpo{
     background-image: url('2.jpeg');
-    background-repetition: no-repetition;
+    background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
